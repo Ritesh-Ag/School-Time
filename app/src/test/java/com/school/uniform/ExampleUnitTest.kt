@@ -1,4 +1,4 @@
-package com.example.schooltime
+package com.school.uniform
 
 import org.junit.Test
 

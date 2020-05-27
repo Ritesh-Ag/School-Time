@@ -1,4 +1,4 @@
-package com.example.schooltime
+package com.school.uniform
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

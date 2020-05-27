@@ -1,4 +1,4 @@
-package com.example.schooltime
+package com.school.uniform
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
